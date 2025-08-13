@@ -1,3 +1,8 @@
 .env.local
 node_modules/
 .next/
+/secrets/*.json
+# Firebase service account secret
+secrets/
+# Firebase Functions node_modules
+functions/node_modules
