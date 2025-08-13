@@ -6,3 +6,4 @@ node_modules/
 secrets/
 # Firebase Functions node_modules
 functions/node_modules
+frontend/credentials/
